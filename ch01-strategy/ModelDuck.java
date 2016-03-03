@@ -1,12 +1,12 @@
 package strategy;
 
 public class ModelDuck extends Duck {
-    public ModelDck() {
+    public ModelDuck() {
         flyBehavior = new FlyNoWay();
         quackBehavior = new Quack();
     }
 
     public void display() {
-        system.put.println("I'm  a model duck");
+        System.out.println("I'm  a model duck");
     }
 }
