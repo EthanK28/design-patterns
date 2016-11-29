@@ -1,6 +1,9 @@
-# HEAD FIRST DESIGN PATTERN
+# Design pattern pratice 
 
-## Ch 01
+## HEAD FIRST DESIGN PATTERN
+
+
+### Ch 01
 Strategy Pattern
 
-## Ch 02
+### Ch 02
